@@ -85,6 +85,8 @@ declare namespace bricks {
     CONVENIENCE = "convenience",
     SECURITY_DETAILS = "security_details",
     SECURITY_SAFETY = "security_safety",
+    CREDITS= "credits",
+    SMART= "smart",
   }
 
   enum WalletButtonRedirectMode {
